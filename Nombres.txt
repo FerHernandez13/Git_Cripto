@@ -1,5 +1,2 @@
 Hola soy Fer! (:
 
-El repositorio está en:
-
-https://github.com/FerHernandez13/Git_Cripto
